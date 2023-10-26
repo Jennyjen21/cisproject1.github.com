@@ -1,0 +1,20 @@
+#results {
+         display:none;
+       }
+	   
+html {
+	font-family: 'Times New Roman', Times, serif;
+}
+	
+body {
+	background-image: Url("background-img.JPG");
+}
+
+h1, form, #results {
+	color: white;
+	text-align: center;
+}
+
+h5, h1 {
+	font-size: 60px;
+}
